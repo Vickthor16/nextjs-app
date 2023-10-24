@@ -18,6 +18,9 @@ module.exports = {
   parserOptions: {
     project: true,
     tsconfigRootDir: __dirname,
+    project: ['./tsconfig.json'], // Specify it only for TypeScript files
+
   },
   root: true,
+  
 }

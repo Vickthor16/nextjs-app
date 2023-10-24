@@ -1,4 +1,7 @@
 next.config.js
 postcss.config.js
 tailwind.config.js
-node_modules/
+node_modules/,
+_app.js
+hello.js
+index.js
